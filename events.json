@@ -1,0 +1,26 @@
+[
+  {
+    "name": "fastapi",
+    "owner": "tiangolo",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "url": "https://github.com/tiangolo/fastapi",
+    "language": "Python",
+    "starredAt": "2025-02-14"
+  },
+  {
+    "name": "TypeScript",
+    "owner": "microsoft",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "language": "TypeScript",
+    "starredAt": "2024-11-03"
+  },
+  {
+    "name": "tailwindcss",
+    "owner": "tailwindlabs",
+    "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "language": "CSS",
+    "starredAt": "2024-06-22"
+  }
+]
